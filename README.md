@@ -13,3 +13,5 @@ Preview refresh: continuous wing transition geometry (2026-09-19).
 Preview refresh: complete lazy-loaded wing shells (2026-09-19).
 
 Preview refresh: opaque portal-style wing transitions; no exposed inter-room void (2026-09-19).
+
+Preview refresh: remove duplicate doorway after wing entry (2026-09-19).
