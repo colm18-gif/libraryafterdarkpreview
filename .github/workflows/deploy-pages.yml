@@ -3,6 +3,8 @@ name: Deploy refactor preview to GitHub Pages
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -23,6 +25,12 @@ jobs:
         with:
           repository: colm18-gif/gutenberg-athenaeum
           ref: architecture-performance-refactor
+
+      - name: Prepare isolated preview
+        run: |
+          rm -rf .git
+          rm -f CNAME
+          touch .nojekyll
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
