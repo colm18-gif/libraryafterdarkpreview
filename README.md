@@ -5,3 +5,5 @@ Temporary GitHub Pages preview for the `architecture-performance-refactor` branc
 This repository is isolated from the production Library After Dark deployment.
 
 Preview refresh requested for interactive wing doors (2026-09-19).
+
+Preview refresh: enclosed East and West wing vestibules (2026-09-19).
