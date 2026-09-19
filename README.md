@@ -9,3 +9,5 @@ Preview refresh requested for interactive wing doors (2026-09-19).
 Preview refresh: enclosed East and West wing vestibules (2026-09-19).
 
 Preview refresh: continuous wing transition geometry (2026-09-19).
+
+Preview refresh: complete lazy-loaded wing shells (2026-09-19).
