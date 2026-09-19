@@ -3,3 +3,5 @@
 Temporary GitHub Pages preview for the `architecture-performance-refactor` branch of `colm18-gif/gutenberg-athenaeum`.
 
 This repository is isolated from the production Library After Dark deployment.
+
+Preview refresh requested for interactive wing doors (2026-09-19).
